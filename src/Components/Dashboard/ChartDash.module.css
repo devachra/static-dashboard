@@ -1,0 +1,18 @@
+.charts {
+  display: flex;
+}
+
+.chart {
+  width: 42%;
+  background-color: beige;
+  height: auto;
+  margin-left: 220px;
+  margin-top: 10px;
+}
+.doughnut {
+  width: 20%;
+  background-color: beige;
+  height: auto;
+  margin: 10px;
+  /* background-image: linear-gradient(blue, red); */
+}
